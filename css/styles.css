@@ -33,7 +33,7 @@ body {
 .tags {
   display: flex;
   gap: 2.4rem;
-  margin-bottom: 4.8rem;
+  margin: 4.8rem 0 4.8rem 0;
 }
 
 .tags__item {
