@@ -33,7 +33,7 @@ body {
 .tags {
   display: flex;
   gap: 2.4rem;
-  margin: 4.8rem 0 4.8rem 0;
+  margin: 4.8rem 0;
 }
 
 .tags__item {
@@ -441,7 +441,7 @@ li.page_link.first.active_page.active a {
 
 /*==================== SOCIAL ====================*/
 .github {
-  margin-bottom: 4.8rem
+  margin-bottom: 4.8rem;
 }
 
 .github a i {
